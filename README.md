@@ -6,6 +6,8 @@ This repository contains two AI-driven projects designed to enhance user experie
 
 Image-Based Product Search – A deep learning model for retrieving visually similar products based on image inputs.
 AI-Powered Customer Support Chatbot – An NLP-based chatbot that efficiently responds to customer queries.
+
+
 1️⃣ Image-Based Product Search
 
 Project Description
@@ -20,6 +22,8 @@ Load and preprocess images.
 Extract feature embeddings using VGG16.
 Compute cosine similarity between images.
 Retrieve and display the most similar products.
+
+
 2️⃣ AI-Powered Chatbot for Customer Support
 
 Project Description
